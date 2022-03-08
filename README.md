@@ -17,3 +17,8 @@ A dialog is an overlay that requires the user to interact with it and designed t
 ```
 
 ### App Screenshots
+
+<img src="url" width="50%" height="50%">
+<img src="url" width="50%" height="50%">
+<img src="url" width="50%" height="50%">
+<img src="url" width="50%" height="50%">
